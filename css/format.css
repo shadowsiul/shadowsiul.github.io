@@ -1,0 +1,140 @@
+body {
+background-color: black;
+   text-align: center;
+   color: red;
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+   margin: auto;
+}
+a {
+    color: hotpink;
+}
+
+
+p {
+  color: white;
+  font-size: x-large;
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+}
+h2 {
+  color: white;
+  margin: auto;
+  text-align: center;
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+}
+tr {
+  color: red;
+  margin: auto;
+  text-align: center;
+  style:"overflow-x:auto;
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+}
+
+table {
+  color: white;
+  margin: auto;
+  text-align: center;
+  width: auto;
+  height: auto;
+  style:"overflow-x:auto;
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+}
+
+
+table,
+th,
+td {
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+  border: 10px solid black;
+  style:"overflow-x:auto;
+  border-collapse: collapse;
+}
+
+@media screen and (max-width: 360px) {
+  .skip {
+    position: absolute;
+    top: -1000px;
+    left: -1000px;
+    height: 1px;
+    width: 1px;
+    text-align: left;
+    overflow: hidden;
+  }
+  #contact
+  {
+    margin: auto;
+    text-align: center;
+    color: white;
+
+  }
+  #contact th
+  {
+    border: 1px white;
+ 
+   h1 {
+    font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+    color: cyan;
+    margin: auto;
+    text-align: center;
+    font-size: small;
+  }
+}
+@media screen and (min-width: 481px) and (max-width: 768px) {
+   .skip {
+    position: absolute;
+    top: -1000px;
+    left: -1000px;
+    height: 1px;
+    width: 1px;
+    text-align: left;
+    overflow: hidden;
+  }
+  #contact
+  {
+    margin: auto;
+    text-align: center;
+    color: white;
+
+  }
+  #contact th
+  {
+    border: 1px white;
+ 
+   h1 {
+    font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+    color: cyan;
+    margin: auto;
+    text-align: center;
+    font-size: small;
+  }
+
+  }
+@media screen and (min-width: 769px) {
+  .skip {
+    position: absolute;
+    top: -1000px;
+    left: -1000px;
+    height: 1px;
+    width: 1px;
+    text-align: left;
+    overflow: hidden;
+  }
+  #contact
+  {
+    margin: auto;
+    text-align: center;
+    color: white;
+
+  }
+  #contact th
+  {
+    border: 1px white;
+ 
+   h1 {
+    font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+    color: cyan;
+    margin: auto;
+    text-align: center;
+    font-size: small;
+  }
+
+}

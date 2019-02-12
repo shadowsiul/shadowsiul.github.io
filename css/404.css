@@ -1,0 +1,12 @@
+
+body {
+  height: 100%;
+  margin: 0;
+}
+.bg {
+  background:black;
+}
+h1{
+  text-align:center;
+  color : red;
+}
