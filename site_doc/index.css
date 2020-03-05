@@ -15,3 +15,12 @@ button
 {
 justify-content: center;
 }
+.link
+{
+  color: yellow;
+  text-align: center;
+  text-shadow: 1px 1px 1px #000;
+  background-color: rgba(220, 0, 0, 1);
+  border-radius: 10px;
+  font-size: 1rem;
+}
