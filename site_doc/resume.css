@@ -23,5 +23,13 @@ h2{
 .download
 {
   color: yellow;
-
+  text-align: center;
+  text-shadow: 1px 1px 1px #000;
+  background-color: rgba(220, 0, 0, 1);
+  border-radius: 10px;
+  font-size: 1rem;
+}
+button
+{
+justify-content: center;
 }
