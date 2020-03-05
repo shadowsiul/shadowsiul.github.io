@@ -1,0 +1,22 @@
+body {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+  color: green;
+}
+p{
+  text-align:center;
+  color: green;
+}
+ul{
+  text-align:center;
+  color: green;
+}
+h4{
+  color: red;
+  text-align:center;
+}
+h2{
+  color: red;
+  text-align:center;
+}
