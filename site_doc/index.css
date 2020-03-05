@@ -4,19 +4,23 @@ body {
   background-color: black;
   color: green;
 }
+
 p{
-text-align: center;
+  text-align: center;
 }
-table
-{
+
+table{
   width: 30%;
+  text-align: center;
+  justify-content: center;
+  float: left;
 }
-button
-{
-justify-content: center;
+
+button{
+  justify-content: center;
 }
-.link
-{
+
+.link{
   color: yellow;
   text-align: center;
   text-shadow: 1px 1px 1px #000;
