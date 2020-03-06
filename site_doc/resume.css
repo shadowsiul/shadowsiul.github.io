@@ -33,3 +33,9 @@ button
 {
   justify-content: center;
 }
+.personal
+{
+  text-align:right;
+  color: yellow;
+  float: left;
+}
